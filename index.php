@@ -49,7 +49,7 @@
 	      <table>
           <tr>
             <td style="width:200px;">2008年9月 至 2009年3月</td>
-            <td style="width:820px;">北京林业大学信息学院辨论协论 成员</td>
+            <td style="width:820px;">北京林业大学信息学院辨论协会 成员</td>
           </tr>
           <tr>
             <td style="width:200px;">2009年9月 至 2010年6月</td>
@@ -214,7 +214,7 @@
             <td colspan="2" class="project-title">2013年 3月 至今</td>
           </tr>
           <tr>
-            <td class="item-content">指导本科生创新项目——集于基群计算的程序同源性分析技术研究</td>
+            <td class="item-content">指导本科生创新项目——基于集群计算的程序同源性分析技术研究</td>
           </tr>
         </table>
         </section>
