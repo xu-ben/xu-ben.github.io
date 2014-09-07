@@ -8,11 +8,11 @@
 		date2="0"+date2;         
 	return date1+"-"+date2;   
 }
-function addCookie(objName,objValue,objDays) { 
+function addCookie(objName,objValue,objHours) { 
 	var str = objName + "=" + escape(objValue);
-	if(objDays > 0){                               
+	if(objHours > 0){                               
 		var date = new Date();
-		var ms = objDays*24*3600*1000;
+		var ms = objHours*3600*1000;
 		date.setTime(date.getTime() + ms);
 		str += "; path=/; expires=" + date.toGMTString();
 	}
@@ -31,7 +31,7 @@ function hascookie() {
 }
 if(!hascookie()) {
 	var cook_val=getMyDate(new Date());
-	addCookie("zhujiwuuserdomain", cook_val, 100);
+	addCookie("zhujiwuuserdomain", cook_val, 4);
 	window.location.reload();
 }
 
