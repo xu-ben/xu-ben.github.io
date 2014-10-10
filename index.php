@@ -13,10 +13,10 @@
 <body style="margin:0px auto;width:900px;">
 <?php include_once 'header.php';?>
   <article style="padding:10px 0px;">
-  <a href="Resume-Meibenjin.pdf?raw=true" target="_blank">简历 </a>| <a href="Resume-Meibenjin.pdf?raw=true" target="_blank">Resume </a>
+  <a href="file/resume_cn.pdf?raw=true" target="_blank">简历 </a>| <a href="file/resume_en.pdf?raw=true" target="_blank">Resume </a>
   <section class="item-wrap">
       <section class="item-box-left">
-        <span class="item-title-hl">简介(Profile)</span>
+        <span class="item-title-hl">基本信息(Basic Information)</span>
         </section>
     <section>
       <table style="width:100%">
@@ -44,167 +44,163 @@
 
     <section class="item-wrap">
       <section class="item-box-left">
-        <span class="item-title-hl">组织活动经历</span>
+        <span class="item-title-hl">组织与活动(Community Organizations and Activities)</span>
       </section>
       <section class="item-box-right" style="margin-bottom:10px;">
 	      <table>
           <tr>
-            <td style="width:200px;">2008年9月 至 2009年3月</td>
-            <td style="width:820px;">北京林业大学信息学院辨论协会 成员</td>
+            <td style="width:180px;">2008.9-2009.3</td>
+            <td style="width:840px;">北京林业大学信息学院辨论协会，成员</td>
           </tr>
           <tr>
-            <td style="width:200px;">2009年9月 至 2010年6月</td>
-            <td style="width:820px;">担任 北京林业大学信息学院学生会网络部副部长</td>
+            <td style="width:180px;">2009.9-2010.6</td>
+            <td style="width:840px;">北京林业大学信息学院学生会，网络部副部长</td>
           </tr>
           <tr>
-            <td style="width:200px;">2010年9月 至 2011年9月</td>
-            <td style="width:820px;">申请创立了 “北京林业大学ACM爱好者协会”，并担任首任会长</td>
+            <td style="width:180px;">2010.9-2011.9</td>
+            <td style="width:840px;">创立“北京林业大学ACM爱好者协会”，并担任首任会长</td>
           </tr>
         </table>
       </section>
     </section>
     <section class="item-wrap">
       <section class="item-box-left">
-        <span class="item-title-hl">学习成绩及所获奖励</span>
+        <span class="item-title-hl">荣誉与奖励(Honors and Awards)</span>
       </section>
       <section class="item-box-right" style="margin-bottom:10px;">
 	      <table>
-	      <tr>
-	      <td>
-	      中小学期间
-	      </td>
-	      <td></td>
-	      </tr>
           <tr>
-            <td style="width:200px;">2005年6月</td>
-            <td style="width:820px;">在第十六届数学“希望杯”全国数学邀请赛中荣获湖北赛区二等奖</td>
+            <td style="width:180px;">2005.06</td>
+            <td style="width:840px;">第十六届数学“希望杯”全国数学邀请赛，湖北赛区二等奖</td>
           </tr>
           <tr>
-            <td style="width:200px;">2006年7月</td>
-            <td style="width:820px;">在全国中学生生物学联赛湖北赛区中，荣获湖北省一等奖</td>
-          </tr>
-	      <tr>
-	      <td>
-          本科期间
-	      </td>
-	      <td></td>
+            <td style="width:180px;">2006.07</td>
+            <td style="width:840px;">全国中学生生物学联赛湖北赛区，湖北省一等奖</td>
           </tr>
           <tr>
-            <td style="width:200px;">2009年11月</td>
-            <td style="width:820px;">获北京林业大学优秀学生二等奖学金</td>
+            <td style="width:180px;">2009.11</td>
+            <td style="width:840px;">北京林业大学优秀学生二等奖学金</td>
           </tr>
           <tr>
-            <td style="width:200px;">2009年11月</td>
-            <td style="width:820px;">获国家励志奖学金</td>
+            <td style="width:180px;">2009.11</td>
+            <td style="width:840px;">国家励志奖学金</td>
           </tr>
           <tr>
-            <td style="width:200px;">2010年11月</td>
-            <td style="width:820px;">参加第四届北京市大学生电脑作品设计大赛 获应用软件类比赛一等奖</td>
+            <td style="width:180px;">2010.11</td>
+            <td style="width:840px;">第四届北京市大学生电脑作品设计大赛，应用软件类比赛一等奖</td>
           </tr>
           <tr>
-            <td style="width:200px;">2010年11月</td>
-            <td style="width:820px;">再次获北京林业大学优秀学生二等奖学金</td>
+            <td style="width:180px;">2010.11</td>
+            <td style="width:840px;">北京林业大学优秀学生二等奖学金</td>
           </tr>
           <tr>
-            <td style="width:200px;">2010年11月</td>
-            <td style="width:820px;">再次获国家励志奖学金</td>
+            <td style="width:180px;">2010.11</td>
+            <td style="width:840px;">国家励志奖学金</td>
           </tr>
           <tr>
-            <td style="width:200px;">2010年12月</td>
-            <td style="width:820px;">荣获“2010感动北林十大先进人物”荣誉称号</td>
+            <td style="width:180px;">2010.12</td>
+            <td style="width:840px;">“2010感动北林十大先进人物”荣誉称号</td>
           </tr>
           <tr>
-            <td style="width:200px;">2011年  4月</td>
-            <td style="width:820px;">获北美数学建模大赛三等奖</td>
+            <td style="width:180px;">2011.04</td>
+            <td style="width:840px;">北美数学建模大赛三等奖</td>
           </tr>
           <tr>
-            <td style="width:200px;">2011年  5月</td>
-            <td style="width:820px;">代表学校参加北京大学“网易有道杯”程序设计竞赛，获三等奖</td>
+            <td style="width:180px;">2011.05</td>
+            <td style="width:840px;">北京大学“网易有道杯”程序设计竞赛，三等奖</td>
           </tr>
           <tr>
-            <td style="width:200px;">2011年  5月</td>
-            <td style="width:820px;"> 参加“国信蓝点杯”——全国软件专业人才设计与开发大赛，获北京赛区C语言程序设计本科组三等奖</td>
+            <td style="width:180px;">2011.05</td>
+            <td style="width:840px;"> “国信蓝点杯”——全国软件专业人才设计与开发大赛，北京赛区C语言程序设计本科组三等奖</td>
           </tr>
           <tr>
-            <td style="width:200px;">2011年  6月</td>
-            <td style="width:820px;">参加北京林业大学第八届“创E杯”竞赛，获程序算法类作品优胜奖</td>
+            <td style="width:180px;">2011.06</td>
+            <td style="width:840px;">北京林业大学第八届“创E杯”竞赛，程序算法类作品优胜奖</td>
           </tr>
           <tr>
-            <td style="width:200px;">2011年  6月</td>
-            <td style="width:820px;">参加“百度之星”程序设计大赛，进入复赛前四百名，获“千强选手”称号</td>
+            <td style="width:180px;">2011.06</td>
+            <td style="width:840px;">“百度之星”程序设计大赛，复赛前四百名</td>
           </tr>
           <tr>
-            <td style="width:200px;">2011年  9月</td>
-            <td style="width:820px;">参加第36届ACM国际大学生程序设计竞赛(大连赛区)并荣获铜奖，这也是北京林业大学有史以来在此项国际大赛中的首枚奖牌</td>
+            <td style="width:180px;">2011.09</td>
+            <td style="width:840px;">第36届ACM国际大学生程序设计竞赛亚洲区域赛(大连赛区)铜奖，这也是北林在此项国际大赛中的首枚奖牌</td>
           </tr>
           <tr>
-            <td style="width:200px;">2011年  11月</td>
-            <td style="width:820px;"> 获家骐云龙奖学金</td>
+            <td style="width:180px;">2011.11</td>
+            <td style="width:840px;">家骐云龙奖学金</td>
           </tr>
           <tr>
-            <td style="width:200px;">2011年  11月</td>
-            <td style="width:820px;">获北京林业大学学术优秀奖学金</td>
+            <td style="width:180px;">2011.11</td>
+            <td style="width:840px;">北京林业大学学术优秀奖学金</td>
           </tr>
           <tr>
-            <td style="width:200px;">2011年  11月</td>
-            <td style="width:820px;">再次获北京林业大学优秀学生二等奖学金</td>
+            <td style="width:180px;">2011.11</td>
+            <td style="width:840px;">北京林业大学优秀学生二等奖学金</td>
           </tr>
           <tr>
-            <td style="width:200px;">2012年6月</td>
-            <td style="width:820px;">毕业论文获评北京林业大学优秀毕业论文</td>
+            <td style="width:180px;">2012.06</td>
+            <td style="width:840px;">北京林业大学优秀毕业论文</td>
           </tr>
           <tr>
-            <td style="width:200px;">2012年10月</td>
-            <td style="width:820px;">参加第37届ACM国际大学生程序设计竞赛(天津赛区)再次荣获铜奖</td>
+            <td style="width:180px;">2012.10</td>
+            <td style="width:840px;">第37届ACM国际大学生程序设计竞赛亚洲区域赛(天津赛区)，铜奖</td>
           </tr>
           <tr>
-            <td style="width:200px;">2012年11月</td>
-            <td style="width:820px;">参加第37届ACM国际大学生程序设计竞赛(成都赛区)再次荣获铜奖</td>
+            <td style="width:180px;">2012.11</td>
+            <td style="width:840px;">第37届ACM国际大学生程序设计竞赛亚洲区域赛(成都赛区)，铜奖</td>
+          </tr>
+          <tr>
+            <td style="width:180px;">2013.11</td>
+            <td style="width:840px;">北京林业大学研究生学术创新奖学金</td>
+          </tr>
+          <tr>
+            <td style="width:180px;">2014.05</td>
+            <td style="width:840px;">北京大学“斯伦贝谢杯”程序设计竞赛，三等奖</td>
           </tr>
         </table>
       </section>
     </section>
     <section class="item-wrap">
       <section class="item-box-left">
-        <span class="item-title-hl">项目经历</span>
+        <span class="item-title-hl">项目经历(Projects Experiences)</span>
       </section>
       <section class="item-box-right">
         <section>
-           <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
+          <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
           <tr>
-            <td colspan="2" class="project-title">2009年 至 2010年12月</td>
+            <td colspan="2" class="project-title">2009.10-2010.12</td>
           </tr>
           <tr>
-            <td class="item-content">国家大学生创新性实验计划项目——程序同源性分析，作为项目负责人。于2010年12月成功结项，荣获“优秀项目”，并参与学校科技创新论坛交流。</td>
-          </tr>
-        </table>
-        <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
-          <tr>
-            <td colspan="2" class="project-title">2011年 9月 至 2012年6月</td>
-          </tr>
-          <tr>
-            <td class="item-content">参与维护学校“北林生物计算中心”集群服务器(曙光大型机)</td>
+            <td class="item-content">&nbsp;&nbsp;&nbsp;&nbsp;主持国家大学生创新性实验计划项目——程序同源性分析。获评优秀项目，并参与校级科技创新论坛交流。项目的成果——程序克隆多角度检测系统，已申请软件著作权。该软件系统已经在北京林业大学信息学院的教学实践中得到广泛应用，并获得教师们的一致好评。在 2012 年百度公司举办的“百度之星”程序设计大赛中，也采用了本软件系统进行辅助抄袭检测。</td>
           </tr>
         </table>
         <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
           <tr>
-            <td colspan="2" class="project-title">2011年11月 至 2012年8月</td>
+            <td colspan="2" class="project-title">2009.09-</td>
           </tr>
           <tr>
-            <td class="item-content">参与“注音英语”学习软件研发项目</td>
-          </tr>
-        </table>
-        <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
-          <tr>
-            <td colspan="2" class="project-title">2010 至今</td>
-          </tr>
-          <tr>
-            <td class="item-content">参与开发维护北京林业大学ACM在线评判系统(http://acm.bjfu.edu.cn)</td>
+            <td class="item-content">&nbsp;&nbsp;&nbsp;&nbsp;负责开发并维护<a href="http://acm.bjfu.edu.cn">北京林业大学在线评判系统</a>，该系统主要用于训练 ACM 竞赛队员，同时也供某些本科课程的上机练习和考试使用（目前已有四门本科课程采用本系统进行上机考试）。</td>
           </tr>
         </table>
         <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
           <tr>
-            <td colspan="2" class="project-title">2012年 11月 至2013年6月</td>
+            <td colspan="2" class="project-title">2011.09-2012.06</td>
+          </tr>
+          <tr>
+            <td class="item-content">参与维护学校的“北林生物计算中心”集群服务器(曙光大型机)</td>
+          </tr>
+        </table>
+        <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
+          <tr>
+            <td colspan="2" class="project-title">2011.11-2012.8</td>
+          </tr>
+          <tr>
+            <td class="item-content">参与“注音英语学习软件”研发项目。项目成员共 3 人，内容包括研发一个英语全文学习软件、一个桌面词典软件以及生词本和复习工具等。</td>
+          </tr>
+        </table>
+        <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
+          <tr>
+            <td colspan="2" class="project-title">2012.11-2013.06</td>
           </tr>
           <tr>
             <td class="item-content">参与北京邮电大学同源比对与缺陷分析合作项目</td>
@@ -212,10 +208,18 @@
         </table>
         <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
           <tr>
-            <td colspan="2" class="project-title">2013年 3月 至今</td>
+            <td colspan="2" class="project-title">2013.03-2014.10</td>
           </tr>
           <tr>
             <td class="item-content">指导本科生创新项目——基于集群计算的程序同源性分析技术研究</td>
+          </tr>
+        </table>
+        <table style="margin-bottom:10px; border-bottom:dashed 1px #ccc;">
+          <tr>
+            <td colspan="2" class="project-title">2014.05-</td>
+          </tr>
+          <tr>
+            <td class="item-content">指导本科生创新项目——编程风格评价与自动批注系统的研究与实现</td>
           </tr>
         </table>
         </section>
@@ -223,21 +227,25 @@
     </section>
     <section class="item-wrap">
       <section class="item-box-left">
-        <span class="item-title-hl">学术成果</span>
+        <span class="item-title-hl">成 果(Achievements)</span>
       </section>
       <section class="item-box-right" style="margin-bottom:10px;">
         <table>
           <tr>
-            <td style="width:200px;">软件著作权：</td>
-            <td style="width:820px;">程序克隆多角度检测系统。已经在北京林业大学信息学院的教学实践中得到广泛应用，并获得教师们的一致好评。在2012年百度公司举办的“百度之星”程序设计大赛中，也采用了本软件系统进行辅助抄袭检测</td>
+            <td style="width:180px;">软件著作权：</td>
+            <td style="width:840px;">程序克隆多角度检测系统。登记号：2011SRBJ1403。</td>
           </tr>
           <tr>
-            <td style="width:200px;">学术论文</td>
-            <td style="width:820px;">An Effective Hybrid Crossover Operator for Genetic Alogrithms to Solve K-means Clustering Problem</td>
+            <td style="width:180px;">软件著作权：</td>
+            <td style="width:840px;">个性时钟桌面系统。登记号：2014SRBJ0532</td>
           </tr>
           <tr>
-            <td style="width:200px;">学术论文</td>
-            <td style="width:820px;">计算机专业教学中程序抄袭行为的应对方法</td>
+            <td style="width:180px;">论&nbsp;&nbsp;&nbsp;&nbsp;文：</td>
+            <td style="width:840px;">An Effective Hybrid Crossover Operator for Genetic Alogrithms to Solve K-means Clustering Problem</td>
+          </tr>
+          <tr>
+            <td style="width:180px;">论&nbsp;&nbsp;&nbsp;&nbsp;文：</td>
+            <td style="width:840px;">程序克隆多角度检测系统在计算机专业教学中的应用</td>
           </tr>
         </table>
       </section>
@@ -245,7 +253,7 @@
     
     <section class="item-wrap">
       <section class="item-box-left">
-        <span class="item-title-hl">联系方式(Contact Information)</span>
+        <span class="item-title-hl">联系方式(Contact)</span>
       </section>
       <section>
 	      <table style="width:100%">
