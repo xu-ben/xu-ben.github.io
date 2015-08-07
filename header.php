@@ -1,5 +1,9 @@
 <header>
+<<<<<<< HEAD
 	<table width="900px">
+=======
+	<table style="width:900px;">
+>>>>>>> 36152a99fba987a94bdf2f5c4df6aa0c1e40e081
 		<tr>
 		<td>
 			<h1

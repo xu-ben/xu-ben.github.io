@@ -1,5 +1,12 @@
 User-Agent: *
+<<<<<<< HEAD
 Allow: /
 Disallow: /ben/
 Disallow: /paste/
 Disallow: /dc/
+=======
+Disallow: /ben/
+Disallow: /paste/
+Disallow: /dc/
+Allow: /
+>>>>>>> 36152a99fba987a94bdf2f5c4df6aa0c1e40e081
