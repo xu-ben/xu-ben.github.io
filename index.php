@@ -8,10 +8,6 @@
   <link type="text/css" rel="StyleSheet" href="index.css"/>
   <script type="text/javascript" src="js/jquery.js"></script>
   <script type="text/javascript" src="index.js"></script>
-<<<<<<< HEAD
-  <script type="text/javascript" src="removead.js"></script>
-=======
->>>>>>> 36152a99fba987a94bdf2f5c4df6aa0c1e40e081
 </head>
 <body style="margin:0px auto;width:900px;">
 <?php include_once 'header.php';?>
