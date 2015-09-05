@@ -244,7 +244,7 @@
           </tr>
           <tr>
             <td style="width:180px;">论&nbsp;&nbsp;&nbsp;&nbsp;文：</td>
-            <td style="width:840px;">程序克隆多角度检测系统在计算机专业教学中的应用</td>
+            <td style="width:840px;">计算机专业教学中程序抄袭行为的应对方法</td>
           </tr>
         </table>
       </section>
