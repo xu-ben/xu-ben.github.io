@@ -1,5 +1,3 @@
 User-Agent: *
-Disallow: /ben/
-Disallow: /paste/
-Disallow: /dc/
+Disallow: /file/
 Allow: /
