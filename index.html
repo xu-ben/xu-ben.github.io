@@ -3,6 +3,10 @@
 <head>
 <title>徐犇的个人主页</title>
 <meta charset="UTF-8">
+<meta content="徐犇" name="keywords"/>
+<meta content="xuben" name="keywords"/>
+<meta content="北京林业大学" name="keywords"/>
+<meta content="bjfu" name="keywords"/>
 <link type="text/css" rel="StyleSheet" href="css/reset.css" />
 <link type="text/css" rel="StyleSheet" href="css/main.css" />
 <link type="text/css" rel="StyleSheet" href="index.css" />
