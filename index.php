@@ -319,11 +319,6 @@
 						</td>
 					</tr>
 					<tr>
-						<td class="item-title">Home Page:</td>
-						<td class="item-content"><a title="View It"	href="http://xuben.org.cn" target="_blank">xuben.org.cn</a>、<a title="View It"	href="http://xuben.tk" target="_blank">xuben.tk</a>、<a title="View It"	href="http://xuben.net.cn" target="_blank">xuben.net.cn</a>
-						</td>
-					</tr>
-					<tr>
 						<td class="item-title">Q Q：</td>
 						<td class="item-content">278110718</td>
 					</tr>
