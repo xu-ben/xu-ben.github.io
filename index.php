@@ -278,7 +278,7 @@
 				<table>
 					<tr>
 						<td style="width: 180px;">软件著作权：</td>
-						<td style="width: 840px;">程序克隆多角度检测系统。登记号：2011SRBJ1403。</td>
+						<td style="width: 840px;"><a title="点此进入项目主页" href="examiner/index.html">程序克隆多角度检测系统</a>。登记号：2011SRBJ1403。</td>
 					</tr>
 					<tr>
 						<td style="width: 180px;">软件著作权：</td>
