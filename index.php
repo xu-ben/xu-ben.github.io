@@ -43,8 +43,10 @@
 		</table>
 	</header>
 	<article style="padding: 10px 0px;">
-		<a href="file/resume_cn.pdf?raw=true" target="_blank">简历 </a>| <a
-			href="file/resume_en.pdf?raw=true" target="_blank">Resume </a>
+	<!--
+	<a href="file/resume_cn.pdf?raw=true" target="_blank">简历 </a>| <a
+		href="file/resume_en.pdf?raw=true" target="_blank">Resume </a>
+	-->
 		<section class="item-wrap">
 			<section class="item-box-left">
 				<span class="item-title-hl">基本信息(Basic Information)</span>
@@ -68,6 +70,12 @@
 						<td class="item-content">双子座</td>
 						<td class="item-title">学历：</td>
 						<td class="item-content">研究生</td>
+					</tr>
+					<tr>
+						<td class="item-title">GitHub：</td>
+						<td class="item-content"><a title="View It"	href="https://github.com/xu-ben" target="_blank">https://github.com/xu-ben</a></td>
+						<td class="item-title">GitLab：</td>
+						<td class="item-content"><a title="View It"	href="https://gitlab.com/u/moonbay" target="_blank">https://gitlab.com/u/moonbay</a></td>
 					</tr>
 				</table>
 			</section>
@@ -278,8 +286,9 @@
 					</tr>
 					<tr>
 						<td style="width: 180px;">论&nbsp;&nbsp;&nbsp;&nbsp;文：</td>
-						<td style="width: 840px;">An Effective Hybrid Crossover Operator
-							for Genetic Alogrithms to Solve K-means Clustering Problem</td>
+						<td style="width: 840px;">An Effective Hybrid Crossover
+							Operator for Genetic Alogrithms to Solve K-means Clustering
+							Problem</td>
 					</tr>
 					<tr>
 						<td style="width: 180px;">论&nbsp;&nbsp;&nbsp;&nbsp;文：</td>
@@ -298,8 +307,8 @@
 					<tr>
 						<td class="item-title">通讯地址：</td>
 						<td class="item-content">北京市海淀区清华东路35号北京林业大学</td>
-						<td rowspan="7" align="right"><img src="images/wx.png" width="50%"
-							height="50%" title="bjfuxuben" /></td>
+						<td rowspan="7" align="right"><img src="images/wx.png"
+							width="50%" height="50%" title="bjfuxuben" /></td>
 					</tr>
 					<tr>
 						<td class="item-title">Email：</td>
@@ -313,9 +322,8 @@
 						</td>
 					</tr>
 					<tr>
-						<td class="item-title">GitHub:</td>
-						<td class="item-content"><a title="View It"
-							href="https://github.com/xu-ben" target="_blank">https://github.com/xu-ben</a>
+						<td class="item-title">Home Page:</td>
+						<td class="item-content"><a title="View It"	href="http://xuben.org.cn" target="_blank">xuben.org.cn</a>、<a title="View It"	href="http://xuben.tk" target="_blank">xuben.tk</a>、<a title="View It"	href="http://xuben.net.cn" target="_blank">xuben.net.cn</a>
 						</td>
 					</tr>
 					<tr>
@@ -337,7 +345,7 @@
 			<section class="reflect"></section>
 			<section class="shadow"></section>
 		</aside>
-	</article>
+	</article>	
 	<footer>
 		<p align="center">
 			&copy; 2013-
