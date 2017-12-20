@@ -159,10 +159,6 @@
 						<td style="width: 840px;">北京林业大学第八届“创E杯”竞赛，程序算法类作品优胜奖</td>
 					</tr>
 					<tr>
-						<td style="width: 180px;">2011.06</td>
-						<td style="width: 840px;">“百度之星”程序设计大赛，复赛前四百名</td>
-					</tr>
-					<tr>
 						<td style="width: 180px;">2011.09</td>
 						<td style="width: 840px;">第36届ACM国际大学生程序设计竞赛亚洲区域赛(大连赛区)铜奖，这也是北林在此项国际大赛中的首枚奖牌</td>
 					</tr>
@@ -313,7 +309,7 @@
 					<tr>
 						<td class="item-title">Email：</td>
 						<td class="item-content"><a title="给我发邮件"
-							href="mailto:bjfuxuben@gmail.com">bjfuxuben@gmail.com</a></td>
+							href="mailto:xuben.cn@gmail.com">xuben.cn@gmail.com</a></td>
 					</tr>
 					<tr>
 						<td class="item-title">Blog:</td>
